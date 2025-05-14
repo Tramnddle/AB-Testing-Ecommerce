@@ -66,10 +66,3 @@ The data is generated using the **fake-web-events** library, which simulates sem
 - Visualize results with **Matplotlib**.
 - Explore production code architecture for scalable A/B testing.
 
-## How to Run
-
-1. Clone the repository.
-2. Set up a Python environment (Python 3.10.4 recommended).
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
